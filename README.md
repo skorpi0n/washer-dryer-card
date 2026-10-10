@@ -6,6 +6,8 @@ about a washing machine or tumble dryer.
 The card supports both washer and dryer variants and includes a
 visual configuration editor.
 
+<img src="washer.png" width="400"><img src="dryer.png" width="400">
+
 ## Features
 
 - Supports washing machines and tumble dryers.
